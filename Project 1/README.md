@@ -40,7 +40,8 @@ The dataset used for this project contains real-world AI & data science job info
 💡 Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 
-## 🗺️ Country Median Salaries - Map Chart
+🗺️ Country Median Salaries - Map Chart
+
 
 
 ![DataJobsMap gif](https://github.com/user-attachments/assets/eb26f773-26b5-4757-8f9a-a11267d67155)
@@ -75,4 +76,7 @@ IF(
 
 
 ![Job Title Short + Median Salary](https://github.com/user-attachments/assets/d9f6b477-0f15-4274-b276-93c9d8e252a0)
+
+
+📉 Dashboard Implementation
 
