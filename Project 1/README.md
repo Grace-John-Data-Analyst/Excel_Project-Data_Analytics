@@ -7,40 +7,43 @@
 
 
 ## Overview
-In this project, I utilized various Excel tools to analyze AI & Data Science jobs posted in different locations. The goal was to investigate salaries associated with these jobs to ensure job seekers are adequately compensated for their desired roles.
+Analyzed AI & Data Science job postings using Excel to investigate salary trends across different locations and roles. The goal is to provide job seekers with data-driven insights into fair compensation and market expectations.
 
-## Dashboard File
-My Final Dashboard is in (./Project%201/Global_AI_Jobs_Dashboard Project 1.xlsx).
+## 📁 Dashboard File
+Access the full analysis here: [ Final Excel Dashboard](./Project 1/Global_AI_Jobs_Dashboard Project 1.xlsx)
 
 
-Excel Skills Used
-The following Excel skills were utilized for analysis:
 
-- 📊charts: Charts  
-- 🧮 Formulas and Functions  
-- ✅ Data Validation  
+🛠️Technical Skills
 
+
+- 📊 Visualization: Dynamic charts & Formating  
+- 🧮 Analysis: Advanced Formulas & Functions  
+- ✅ Data Validation
+    
 
 Data Jobs Dataset
-The dataset used for this project contains real-world AI & data science job information from 2026. The data set was extracted from Kaggle.com. It includes detailed information on:
+
+This project utilized a 2026 AI & Data Science job dataset sourced from Kaggle. It includes detailed information on:
 
 - 👤 Job titles  
 - 💰 Salaries  
 - 📍 Locations  
 - ⚙️ Job Modes 
 
-## Dashboard Build
-## Charts
-
-## 📊 Data Science Job Salaries - Bar Chart
-
-![Data Jobs Chart](https://github.com/user-attachments/assets/ad897c09-e8be-41ca-9e56-31779267b103)
-
-📊 Excel Features: Bar chart 
-💡 Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
+## 📊 Visualization & Insights
 
 
-🗺️ Country Median Salaries - Map Chart
+## Job Salaries by Role (Bar Chart)
+
+![Data Job Titles](https://github.com/user-attachments/assets/b3be12ff-b11f-441c-8915-e13986d16aa5)
+
+
+- 📊 Feature: Excel Bar Charts   
+- 💡 Insights Gained: Research scientists and Machine Learning roles offer significatly higher compensation compared to Analyst positions. This cahrt allows for quick identification of top-paying career paths.
+
+
+## 🗺️ Country Median Salaries - Map Chart
 
 
 
@@ -48,13 +51,12 @@ The dataset used for this project contains real-world AI & data science job info
 
 
 
-🛠️ Excel Features: Utilized Excel's map chart feature to plot median salaries globally.  
-🎨 Design Choice: Color-coded map to visually differentiate salary levels across regions.  
-📊 Data Representation: Plotted median salary for each country with available data.  
-👁️ Visual Enhancement: Improved readability and immediate understanding of geographic salary trends.  
-💡 Insights Gained: Enables quick grasp of global salary disparities and highlights high/low salary regions.  
+- 🛠️ Features: Excel Map Charts
+- 💡 Insigts: Visualized median salary benchmarks across different countries to highlight regional market variations.
 
+Fomulas
 
+To calculate precise salary benchmarks, I used a multi-criteria array formula
 
 =MEDIAN(  
        IF(  
@@ -67,11 +69,11 @@ The dataset used for this project contains real-world AI & data science job info
 )  
 
 
+Importance
 
-🔍 Multi-Criteria Filtering: Checks job title, country, schedule type, and excludes blank salaries.   
-📊 Array Formula: Utilizes MEDIAN() function with nested IF() statement to analyze an array.  
-🎯 Tailored Insights: Provides specific salary information for job titles, regions, and schedule types.  
-🔢 Formula Purpose: This formula populates the table below, returning the median salary based on job title, country,   and type specified.
+- Dynamic Filtering: Automatically updates based on job Title, Country, and Work Mode.
+
+- Data Accuracy: Excludes blank entries to ensure insight remains reliable
 
 
 🍽️ Background Table
@@ -93,14 +95,10 @@ The dataset used for this project contains real-world AI & data science job info
 ![Data jobs mode](https://github.com/user-attachments/assets/e8bdfdaf-4a11-4cf4-8038-c362299a838b)
 
 
-❎ Data Validation
-🔍 Filtered List
+❎ Data Validation & Filtering
 
 
-- 🔒 Enhanced Data Validation: Implementing the filtered list as a data validation rule under the Job Title, Country, and Type option in the Data tab ensures:
-- 🎯 User input is restricted to predefined, validated schedule types
-- 🚫 Incorrect or inconsistent entries are prevented
-- 👥 Overall usability of the dashboard is enhanced
+Implemented Data Validation to restrict inputs for job Title, Country, and Job Mode.
 
 
 ![Data Job Title Short gif](https://github.com/user-attachments/assets/b0d3aa22-07ab-44c4-a208-2b76c235fcf4)
@@ -108,4 +106,4 @@ The dataset used for this project contains real-world AI & data science job info
 
 # Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
+I created this dashboard to provide a clear look into global AI & Data Science Salary trends. By visualizing how location and jon type affect pay, it helps job seekers to make data-driven career decision.
