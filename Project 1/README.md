@@ -7,7 +7,10 @@
 
 
 ## Overview
-This project analysis AI jobs postings
+In this project, I utilized various Excel tools to analyze AI & Data Science jobs posted in different locations. The goal was to investigate salaries associated with these jobs to ensure job seekers are adequately compensated for their desired roles.
+
+## Dashboard File
+My Final Dashboard is in
 
 
 
