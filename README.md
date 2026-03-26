@@ -7,7 +7,8 @@ This dashboard was created to guide job seekers in making informed decisions on 
 
 [Checkout my work here](Project%201) 
 
-![Data Jobs Dashboard gif](https://github.com/user-attachments/assets/15c1951a-e894-443e-aa62-aaf0742f9437)
+![DataJobsDashboar gif](https://github.com/user-attachments/assets/d49be9fd-6363-44a1-86ca-4460694de244)
+
 
 
 
