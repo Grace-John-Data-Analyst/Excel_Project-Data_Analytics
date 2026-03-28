@@ -18,7 +18,7 @@ Access the full analysis here: [Final Excel Dashboard](./Global_AI_Jobs_Dashboar
 🛠️Technical Skills
 
 
-- 📊 Visualization: Dynamic charts & Formating  
+- 📊 Visualization: Dynamic Charts & Formatting  
 - 🧮 Analysis: Advanced Formulas & Functions  
 - ✅ Data Validation
     
