@@ -1,7 +1,8 @@
 # Global AI Jobs Dashboard
 
-![DataJobsDashboar gif](https://github.com/user-attachments/assets/b6d4f010-b71d-4951-8fcb-7e09557bc6c6)
 
+
+![AI   data salary dashboard gif](https://github.com/user-attachments/assets/67af97c0-a840-4a36-beab-5d93625d8ac2)
 
 
 
@@ -40,7 +41,7 @@ This project utilized a 2026 AI & Data Science job dataset sourced from Kaggle. 
 
 
 - 📊 Feature: Excel Bar Charts   
-- 💡 Insights Gained: Research scientists and Machine Learning roles offer significatly higher compensation compared to Analyst positions. This cahrt allows for quick identification of top-paying career paths.
+- 💡 Insights Gained: Research scientists and Machine Learning roles offer significatly higher compensation compared to Analyst positions. This chart allows for quick identification of top-paying career paths.
 
 
 ## 🗺️ Country Median Salaries - Map Chart
@@ -106,4 +107,4 @@ Implemented Data Validation to restrict inputs for job Title, Country, and Job M
 
 # Conclusion
 
-I created this dashboard to provide a clear look into global AI & Data Science Salary trends. By visualizing how location and jon type affect pay, it helps job seekers to make data-driven career decision.
+I created this dashboard to provide a clear look into global AI & Data Science Salary trends. By visualizing how location and job type affect pay, it helps job seekers to make data-driven career decision.
