@@ -8,7 +8,7 @@
 
 
 ## Overview
-Analyzed AI & Data Science job postings using Excel to investigate salary trends across different locations and roles. The goal is to provide job seekers with data-driven insights into fair compensation and market expectations.
+Analyzed AI & Data Science job postings using Excel to investigate salary trends across different locations and roles. The goal was to provide job seekers with data-driven insights into fair compensation and market expectations.
 
 ## 📁 Dashboard File
 Access the full analysis here: [Final Excel Dashboard](./Global_AI_Jobs_Dashboard%Project%201.xlsx)
