@@ -34,3 +34,33 @@ It includes detailed information on:
 # 1️⃣ Do more skills get you better pay?
 ## 🔍 Skill: Power Query (ETL)
 ### 📥 Extract
+
+![Power query Applied steps](https://github.com/user-attachments/assets/c80fd85c-976f-4a10-9bba-eabc355d129f)
+
+
+![Data Job Skills Ordered steps](https://github.com/user-attachments/assets/a666549e-a8ef-4ca3-b97c-e285940adb9f)
+
+
+![Data Jobs Salary Table](https://github.com/user-attachments/assets/f00ff26c-0114-4f42-adf6-7c27ba90cd9c)
+
+
+
+![Power Query Data_Jobs_skill](https://github.com/user-attachments/assets/b516ea6b-a114-4106-9590-6fe1555ba609)
+
+
+![Scatter chart - project 2](https://github.com/user-attachments/assets/7fae6f22-9321-40a1-8b36-505f9c6b91dd)
+
+
+![Salary analysis - project 2](https://github.com/user-attachments/assets/3a213b4c-e1b9-426b-ac5b-dbb92cbaed23)
+
+
+![Power Pivot Relationship Table](https://github.com/user-attachments/assets/bd7d79a0-7fa9-41cd-ad4a-92658258ffc7)
+
+
+![Power Pivot Table](https://github.com/user-attachments/assets/c6d4930d-aa61-4776-8a00-cf7fe481a9b3)
+
+
+![Project 2 Chart](https://github.com/user-attachments/assets/65099cd0-2daa-4572-8dea-caccc74b183c)
+
+
+![Data Jobs Chart](https://github.com/user-attachments/assets/05d95eef-3fdc-43e8-89c4-3a3667b9c49d)
