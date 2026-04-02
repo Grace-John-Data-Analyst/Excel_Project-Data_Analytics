@@ -1,15 +1,15 @@
 # Project 2 - Data Jobs Analysis
 ## Introduction
 
-There are lots of information surrounding the data science market but not much is being said about what skills top employers request and how to leverage these skills for better pay.
+This project analyzes the data science job market to identify high-demand skills and their direct impact on earning potentials. The goal is to guide job seekers to understand how skills correlate to pay and how to negotiate approriately.
 
 ## Questions Explored
 To understand the data science job market, I asked the following:  
 
-Do more skills get you better pay?  
-What’s the salary for data jobs in different regions?  
-What are the top skills of data professionals?  
-What’s the pay for the top 10 skills?  
+1. Do more skills get you better pay?  
+2. What’s the salary for data jobs in different regions?  
+3. What are the top skills of data professionals?  
+4. What’s the pay for the top 10 skills?  
 
 ## Excel Skills Used  
 The following Excel skills were utilized for analysis:  
@@ -21,9 +21,9 @@ The following Excel skills were utilized for analysis:
 💪 Power Pivot  
 
 ## Data Jobs Dataset
-The dataset used is from Luke Barousse as part of the resources for his Data Analytics Course and it contains real-world data science job information from 2023.
+Sourced from Luke Barousse's 2023 course materials, featuring real-world data.  
 
-It includes detailed information on:
+It includes detailed information on:  
 
 👨‍💼 Job titles  
 💰 Salaries  
@@ -34,7 +34,7 @@ It includes detailed information on:
 # 1️⃣ Do more skills get you better pay?
 ## 🔍 Skill: Power Query (ETL)
 ### 📥 Extract
-I started by extracting the original dataset (data_salary_all.xlsx) into power query editor then proceeded to transform same by removing unecessary columns, changing column types, and cleaning the the texts to remove specific words, and trimming white spaces.
+I started by extracting the original dataset (data_salary_all.xlsx) into power query then proceeded to remove unecessary columns, changed column types, and cleaned the texts to remove specific words, and trimmed white spaces.
 
 Data_jobs_all  
 
@@ -50,7 +50,7 @@ Data_job_skills
 
 Loading the Data  
 
-After cleaning, I proceeded to load my data into a workbook, getting ready for my analysis.  
+Loaded the transformed data into an Excel workbook to perform a deep-dive analysis on the data job trends.  
 
 
 Data_jobs_all  
@@ -64,46 +64,40 @@ Data_job_skills
 # Analysis  
 
 ##  Insights  
-
-Results show that roles like Data Engineers and Data Scientists require more skills and offers higher pay when compared to roles like Business Analyst which requiers fewer skills.
+Data Engineers and Scientists command higher salaries due to complex skills requirements compared to Business Analyst roles.
 
 ![Scatter chart - project 2](https://github.com/user-attachments/assets/7fae6f22-9321-40a1-8b36-505f9c6b91dd)
 
 ## Recommendations  
 
-Job seekers aiming for higher pay should consider acquiring more skills.  
+Job seekers aiming for higher pay should priorotize high-demand technical skills.  
 
-# 2. What’s the salary for data jobs in different regions?
+# 2️⃣ What’s the salary for data jobs in different regions?
 ## 🧮 Skills: PivotTables & DAX
 ### 📈Pivot Table
 
-I created a pivote table using the data model I created with Power pivot  
-Next, I dragged the Job Titles Short ino the roles and salary year average into the value. Then I created a messure a measure to calculate the median salary in the US.   
+Utilized Power pivot and DAX measures to calculate the exact median salaries in the US.
+
 
 # Analysis  
 ## 💡 Insights 
-- Roles like Data engineer recieve hiher pay both i the US and internationally, showig the demand for higher tech expertise globally.
+- Roles like Data engineer recieve hiher pay globally. this highlights the intense demand for high level tech expertise both in the US and internationally.
 
 ![Salary analysis - project 2](https://github.com/user-attachments/assets/3a213b4c-e1b9-426b-ac5b-dbb92cbaed23)
 
 
 ### Significance
 
-These Salary analysis will help professionals in negotiating salary appropriately with respect to skills and regions.
+This provides a clear roadmap for professionals to align their skill sets with current high-paying market benchmark.  
 
 # 3️⃣ What are the top skills of data professionals?  
 ## 🔧 Skill: Power Pivot 
 ### 💪 Power Pivot 
 
-🔗 I created a data model by integrating the data_jobs_all and data_jobs_skills tables into one model.
-🧹 Since I had already cleaned the data using Power Query; Power Pivot created a relationship between these two tables.
-## 🔗 Data Model
-I created a relationship between my two tables using the job_id column.
+🔗 I integrated the data_jobs_all and data_jobs_skills table into a unified model by establishing a relationship through the job_id columns. This made it seamless create measures and perform a deep-dive analysis across multiple tables.  
 
- 
 
 ![Power Pivot Relationship Table](https://github.com/user-attachments/assets/bd7d79a0-7fa9-41cd-ad4a-92658258ffc7)
-
 
 
 ## 📃 Power Pivot Menu  
@@ -114,12 +108,11 @@ The Power Pivot menu was used to refine my data model and makes it easy to creat
 
 📊Analysis  
 💡Insights  
-💻 SQL and Python dominate as top skills in data-related jobs, reflecting their foundational role in data processing and analysis.  
+This analysis reveals that SQL and Python are the most critical skills in the data market today. 
 
-☁️ Emerging technologies like AWS and Azure also show significant presence, underlining the industry's shift towards cloud services and big data technologies.  
 
 ## Significance
-Understanding prevalent skills in the industry not only helps professionals stay competitive but also guides training and educational programs to focus on the most impactful technologies.  
+Thier dominace reflects their foundational role in data processing and analysis; mastery of tese tools  is a non-negotiable requirement for high-tier data roles. 
 
 
 ![Project 2 Chart](https://github.com/user-attachments/assets/65099cd0-2daa-4572-8dea-caccc74b183c)
