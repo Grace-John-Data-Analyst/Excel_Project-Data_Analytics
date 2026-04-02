@@ -82,10 +82,18 @@ Next, I dragged the Job Titles Short ino the roles and salary year average into 
 
 # Analysis  
 ## 💡 Insights 
-- 
+- Roles like Data engineer recieve hiher pay both i the US and internationally, showig the demand for higher tech expertise globally.
 
 ![Salary analysis - project 2](https://github.com/user-attachments/assets/3a213b4c-e1b9-426b-ac5b-dbb92cbaed23)
 
+
+### Impotance
+
+These Salary analysis will help professionals in negotiating salary appropriately with respect to skills and regions.
+
+# 3️⃣ What are the top skills of data professionals?  
+## 🔧 Skill: Power Pivot 
+### 💪 Power Pivot 
 
 ![Power Pivot Relationship Table](https://github.com/user-attachments/assets/bd7d79a0-7fa9-41cd-ad4a-92658258ffc7)
 
