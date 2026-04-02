@@ -69,6 +69,20 @@ Results show that roles like Data Engineers and Data Scientists require more ski
 
 ![Scatter chart - project 2](https://github.com/user-attachments/assets/7fae6f22-9321-40a1-8b36-505f9c6b91dd)
 
+## Recommendations  
+
+Job seekers aiming for higher pay should consider acquiring more skills.  
+
+# 2. What’s the salary for data jobs in different regions?
+## 🧮 Skills: PivotTables & DAX
+### 📈Pivot Table
+
+I created a pivote table using the data model I created with Power pivot  
+Next, I dragged the Job Titles Short ino the roles and salary year average into the value. Then I created a messure a measure to calculate the median salary in the US.   
+
+# Analysis  
+## 💡 Insights 
+- 
 
 ![Salary analysis - project 2](https://github.com/user-attachments/assets/3a213b4c-e1b9-426b-ac5b-dbb92cbaed23)
 
