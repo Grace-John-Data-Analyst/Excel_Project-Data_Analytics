@@ -34,6 +34,7 @@ It includes detailed information on:
 # 1️⃣ Do more skills get you better pay?
 ## 🔍 Skill: Power Query (ETL)
 ### 📥 Extract
+I started by extracting the dataset into power query editor then proceeded to transform same by removing unecessary columns, changing column types, and cleaning the
 
 ![Power query Applied steps](https://github.com/user-attachments/assets/c80fd85c-976f-4a10-9bba-eabc355d129f)
 
