@@ -8,7 +8,7 @@
 
 
 ## Overview
-This project analyzesglobal AI & Data Science job postings to identify which roles, locations, and work mode offer the highest salary, helping job seekers make informed career decisions.
+This project analyzes global AI & Data Science job postings to identify which roles, locations, and work mode offer the highest salary, helping job seekers make informed career decisions.
 
 ## 📁 Dashboard File
 Access the full analysis here: [Final Excel Dashboard](./Global_AI_Jobs_Dashboard%Project%201.xlsx)
@@ -40,13 +40,13 @@ This project utilized a 2026 AI & Data Science job dataset sourced from Kaggle. 
 ![Data Job Titles](https://github.com/user-attachments/assets/b3be12ff-b11f-441c-8915-e13986d16aa5)
 
 
-- 📊 Visualized salary diiference across AI roles to highligh top-paying career paths.
+- 📊 Visualized salary difference across AI roles to highligh top-paying career paths.
 - 💡 Insights Gained: Research scientists and Machine Learning roles consistently offer the highest salaries, indicating strong market demand for advanced AI skills.
 
 
 ## Recommendation
-- Job seekers should prioritize ML and Research roles fot a higher earning potential.
-- Target countried like USA ans Australia for brtter compensation.
+- Job seekers should prioritize ML and Research roles for higher earning potentials.
+- Target countries like USA and Australia for better compensation.
   
 ## 🗺️ Country Median Salaries - Map Chart
 
@@ -61,7 +61,7 @@ This project utilized a 2026 AI & Data Science job dataset sourced from Kaggle. 
 
 ### Formulas  
 - Used dynamic array formulas for salary calculations 
-- Built interactive dashboard using data validation  
+- Created dynamic charts based on user selections 
 
 =MEDIAN(  
        IF(  
@@ -108,7 +108,10 @@ Implemented Data Validation to restrict inputs for job Title, Country, and Job M
 
 ![Data Job Title Short gif](https://github.com/user-attachments/assets/b0d3aa22-07ab-44c4-a208-2b76c235fcf4)
 
-
+## Key Findings  
+- AI roles like Research Scientist and ML Engineer earn the highest salaries
+- USA and Austrialia offer the strongest compensation
+- Work mode impacts salary, with onsite roles often paying more
 # Conclusion
 
 I created this dashboard to provide a clear look into global AI & Data Science Salary trends. By visualizing how location and job type affect pay, it helps job seekers to make data-driven career decision.
