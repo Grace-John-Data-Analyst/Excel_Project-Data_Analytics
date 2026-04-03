@@ -8,7 +8,7 @@
 
 
 ## Overview
-Analyzed AI & Data Science job postings using Excel to investigate salary trends across different locations and roles. The goal was to provide job seekers with data-driven insights into fair compensation and market expectations.
+This project analyzesglobal AI & Data Science job postings to identify which roles, locations, and work mode offer the highest salary, helping job seekers make informed career decisions.
 
 ## 📁 Dashboard File
 Access the full analysis here: [Final Excel Dashboard](./Global_AI_Jobs_Dashboard%Project%201.xlsx)
@@ -40,10 +40,14 @@ This project utilized a 2026 AI & Data Science job dataset sourced from Kaggle. 
 ![Data Job Titles](https://github.com/user-attachments/assets/b3be12ff-b11f-441c-8915-e13986d16aa5)
 
 
-- 📊 Feature: Excel Bar Charts   
-- 💡 Insights Gained: Research scientists and Machine Learning roles offer significatly higher compensation compared to Analyst positions. This chart allows for quick identification of top-paying career paths.
+- 📊 Visualized salary diiference across AI roles to highligh top-paying career paths.
+- 💡 Insights Gained: Research scientists and Machine Learning roles consistently offer the highest salaries, indicating strong market demand for advanced AI skills.
 
 
+## Recommendation
+- Job seekers should prioritize ML and Research roles fot a higher earning potential.
+- Target countried like USA ans Australia for brtter compensation.
+  
 ## 🗺️ Country Median Salaries - Map Chart
 
 
@@ -55,9 +59,9 @@ This project utilized a 2026 AI & Data Science job dataset sourced from Kaggle. 
 - 🛠️ Features: Excel Map Charts
 - 💡 Insigts: Visualized median salary benchmarks across different countries to highlight regional market variations.
 
-Fomulas
-
-To calculate precise salary benchmarks, I used a multi-criteria array formula
+### Formulas  
+- Used dynamic array formulas for salary calculations 
+- Built interactive dashboard using data validation  
 
 =MEDIAN(  
        IF(  
