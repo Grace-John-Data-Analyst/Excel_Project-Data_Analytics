@@ -34,7 +34,7 @@ It includes detailed information on:
 # 1️⃣ Do more skills get you better pay?
 ## 🔍 Skill: Power Query (ETL)
 ### 📥 Extract
-I started by extracting the original dataset (data_salary_all.xlsx) into power query then proceeded to remove unecessary columns, changed column types, and cleaned the texts to remove specific words, and trimmed white spaces.
+I started by extracting the original dataset (data_salary_all.xlsx) into power query then proceeded to remove unnecessary columns, changed column types, and cleaned the texts to remove specific words, and trimmed white spaces.
 
 Data_jobs_all  
 
@@ -82,7 +82,7 @@ Job seekers aiming for higher pay should priorotize high-demand technical skills
 
 # Analysis  
 ## 💡 Insights 
-- Roles like Data engineer recieve higher pay globally. this highlights the intense demand for high level tech expertise both in the US and internationally.
+- Roles like Data engineer receive higher pay globally. This highlights the intense demand for high level tech expertise both in the US and internationally.
 
 ![Salary analysis - project 2](https://github.com/user-attachments/assets/3a213b4c-e1b9-426b-ac5b-dbb92cbaed23)
 
